@@ -1,7 +1,7 @@
 # C# Turing Machine
 A C# Turing Machine for educational purposes
 
-Please go to the original 2015 Article:<br>
+Please go to the original 2012 Article:<br>
 [A C# Turing Machine - Code Project Article](https://www.codeproject.com/Articles/409525/A-Csharp-Turing-Machine)
 <br>
 <br>
